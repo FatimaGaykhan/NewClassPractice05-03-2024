@@ -1,0 +1,14 @@
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\bin\Debug\net6.0\NewClassPractice05.03.2024.exe
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\bin\Debug\net6.0\NewClassPractice05.03.2024.deps.json
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\bin\Debug\net6.0\NewClassPractice05.03.2024.runtimeconfig.json
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\bin\Debug\net6.0\NewClassPractice05.03.2024.dll
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\bin\Debug\net6.0\NewClassPractice05.03.2024.pdb
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\NewClassPractice05.03.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\NewClassPractice05.03.2024.AssemblyInfoInputs.cache
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\NewClassPractice05.03.2024.AssemblyInfo.cs
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\NewClassPractice05.03.2024.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\NewClassPractice05.03.2024.dll
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\refint\NewClassPractice05.03.2024.dll
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\NewClassPractice05.03.2024.pdb
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\NewClassPractice05.03.2024.genruntimeconfig.cache
+C:\Users\fatimaeg\Desktop\NewClassPractice05.03.2024\NewClassPractice05.03.2024\obj\Debug\net6.0\ref\NewClassPractice05.03.2024.dll
